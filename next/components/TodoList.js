@@ -1,7 +1,7 @@
 export  function TodoList() {
   return (
     <>
-      <h1>Hedy Lamarr's Todos</h1>
+      <h1>Hedy Lamarr&apos;s Todos</h1>
       <img 
         src="https://i.imgur.com/yXOvdOSs.jpg" 
         alt="Hedy Lamarr" 
